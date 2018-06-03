@@ -6,7 +6,7 @@ Check this Video link -
 PREREQUISITES ->
 
 1. NODEMCU(COSTS - 5 to 7 EUR)
-2. ACCOUNT in HANA CLOUD PLATFORM
+2. NEO Trail Account in HANA CLOUD PLATFORM
 
 Follow the below steps:
 
