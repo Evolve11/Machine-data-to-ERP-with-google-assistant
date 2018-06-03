@@ -1,4 +1,4 @@
-# hana-iot-google-assistance
+# hana-iot-google-assistant
 Using hana iot and Google Assistance
 
 Check this Video link - 
